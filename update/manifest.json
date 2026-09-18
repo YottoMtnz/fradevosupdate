@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "product": "Fradev OS",
+  "channel": "stable",
+  "base_version": "1.0",
+  "latest_revision": 0,
+  "update": {
+    "title": "Fradev OS 1.0 Stable",
+    "published": false,
+    "notes": "Base stable release. No additional patch is published yet.",
+    "package": null,
+    "sha256": null
+  }
+}
