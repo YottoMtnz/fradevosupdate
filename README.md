@@ -4,7 +4,7 @@
 >
 > Desarrolla. Crea. Juega. Conecta. Todo desde un escritorio pensado para hacer más y pelear menos con el sistema.
 
-**Estado:** 1.0 Stable · **Descarga pública:** próximamente
+**Estado:** 1.0 Stable · **Descarga pública:** [Disponible](https://drive.google.com/uc?export=download&id=1C-etZAM8UDlAEM_dmksLp62kkkOnUWXf)
 
 ---
 
@@ -95,7 +95,7 @@ Estas son capturas tomadas directamente de **Fradev OS 1.0 Stable** funcionando 
 
 La versión **1.0 Stable** marca la base pública de Fradev OS.
 
-La descarga estará disponible próximamente.
+**[Descargar Fradev OS 1.0 Stable](https://drive.google.com/uc?export=download&id=1C-etZAM8UDlAEM_dmksLp62kkkOnUWXf)**
 
 ---
 
