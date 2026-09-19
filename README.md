@@ -67,9 +67,27 @@ Estos comandos forman parte de la instalación de Fradev OS 1.0 y son útiles pa
 
 ## Capturas reales
 
-Las capturas públicas de **Fradev OS 1.0 Stable** se añadirán antes de la publicación de la descarga.
+Estas son capturas tomadas directamente de **Fradev OS 1.0 Stable** funcionando en hardware real. La presentación pública se centra en el propio sistema: entorno de desarrollo, fraGlass, Control Center, Devices y Software.
 
-La web oficial está preparada para mostrar capturas reales del escritorio, fraGlass, Control Center, compatibilidad y Android sin depender de renders conceptuales.
+### Developer Stack
+
+![Fradev OS Developer Stack](assets/fradev-developer-stack.webp)
+
+### fraGlass
+
+![Configuración de fraGlass](assets/fradev-fraglass.webp)
+
+### Control Center
+
+![Fradev OS Control Center](assets/fradev-control-center.webp)
+
+### Devices
+
+![Fradev OS Devices](assets/fradev-devices.webp)
+
+### Software
+
+![Fradev OS Software](assets/fradev-software.webp)
 
 ---
 
