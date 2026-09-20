@@ -3,13 +3,13 @@
   "product": "Fradev OS",
   "channel": "stable",
   "base_version": "1.0",
-  "latest_revision": 1,
+  "latest_revision": 2,
   "update": {
-    "title": "Fradev OS Update Pipeline Test R1",
+    "title": "Fradev Installer + Project Identity — Update R2",
     "published": true,
-    "notes": "Primera prueba firmada del sistema de parches. Instala el marcador de validación y consolida una corrección bootstrap del propio actualizador.",
-    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R1-Update-Test.fup",
-    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R1-Update-Test.fup.sig",
-    "sha256": "2d3af8af4fa6b515d16bac78f0880b29b7052892a09e17e75dc93aa3877e9a7c"
+    "notes": "R2 acumulativa: añade Fradev Installer y la identidad/atribución profesional de Fradev OS/Fradev AI. Conserva la validación R1.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R2-Fradev-Installer-Project-Identity.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R2-Fradev-Installer-Project-Identity.fup.sig",
+    "sha256": "960bdc79065cb192748e23105f2a1b35f36b701bb0b7bbb534e2451ca4642504"
   }
 }
