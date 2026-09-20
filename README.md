@@ -4,7 +4,7 @@
 >
 > Desarrolla. Crea. Juega. Conecta. Todo desde un escritorio pensado para hacer más y pelear menos con el sistema.
 
-**Estado:** 1.0 Stable · **Descarga pública:** [Disponible](https://drive.google.com/uc?export=download&id=1C-etZAM8UDlAEM_dmksLp62kkkOnUWXf)
+**Estado:** 1.0 Stable · **Descarga pública:** [Disponible](https://drive.google.com/uc?export=download&id=1nfO6ChLyEHFYzCypc10cmfcbA58l4Lqt)
 
 ---
 
@@ -22,6 +22,7 @@ La idea es simple: un sistema moderno para el día a día, con herramientas de d
 - **Steam + Game Lab** — juegos, emulación y herramientas para experimentar con proyectos propios.
 - **Devices** — herramientas para impresoras, escáneres y otros dispositivos del día a día.
 - **Control Center** — un punto central para revisar el sistema y acceder a sus funciones principales.
+- **Fradev AI** — asistente local opcional para programación, depuración y consultas técnicas; los modelos se descargan aparte en 4B, 8B, 14B o 32B según el hardware.
 
 ---
 
@@ -40,6 +41,14 @@ Puedes navegar, trabajar, programar, gestionar archivos, usar herramientas de de
 Fradev OS amplía las posibilidades del escritorio, pero no promete compatibilidad universal.
 
 Algunas aplicaciones pueden depender de componentes propietarios, DRM, anti-cheat, controladores específicos, arquitectura de CPU o conexión a Internet. Cuando una aplicación o dispositivo necesita algo especial, Fradev OS intenta hacerlo visible en lugar de ocultarlo.
+
+---
+
+## Fradev AI
+
+Fradev AI es un asistente local opcional integrado en Fradev OS para ayudar con programación, errores y consultas técnicas. Los modelos **no forman parte de la ISO**: se descargan únicamente cuando el usuario decide usarlos, con opciones 4B, 8B, 14B y 32B según los recursos del equipo.
+
+Una vez instalado el modelo, el chat se procesa localmente.
 
 ---
 
@@ -95,7 +104,7 @@ Estas son capturas tomadas directamente de **Fradev OS 1.0 Stable** funcionando 
 
 La versión **1.0 Stable** marca la base pública de Fradev OS.
 
-**[Descargar Fradev OS 1.0 Stable](https://drive.google.com/uc?export=download&id=1C-etZAM8UDlAEM_dmksLp62kkkOnUWXf)**
+**[Descargar Fradev OS 1.0 Stable](https://drive.google.com/uc?export=download&id=1nfO6ChLyEHFYzCypc10cmfcbA58l4Lqt)**
 
 ---
 
