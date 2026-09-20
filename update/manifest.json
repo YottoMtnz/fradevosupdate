@@ -5,11 +5,11 @@
   "base_version": "1.0",
   "latest_revision": 1,
   "update": {
-    "title": "Fradev OS Update Pipeline Test R1",
+    "title": "Fradev Installer — Official Update R1",
     "published": true,
-    "notes": "Primera prueba firmada del sistema de parches. Instala únicamente un marcador de validación y eleva la revisión local a 1.",
-    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R1-Update-Test.fup",
-    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R1-Update-Test.fup.sig",
-    "sha256": "76e33afa48d971ad06e70c7c145cb0054d1ce1d04018afc486384e275b1addfc"
+    "notes": "Primera actualización oficial de Fradev OS 1.0 Stable. Añade Fradev Installer: instalación gráfica de .deb, AppImage, .fapp y análisis seguro de tar/zip, además de integración de conocimiento con Fradev AI.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R1-Fradev-Installer.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R1-Fradev-Installer.fup.sig",
+    "sha256": "e2d4feacf8b53279e60c0fa20bd96c52d9cf3a051a69554f2a86c9e97c8fde60"
   }
 }
