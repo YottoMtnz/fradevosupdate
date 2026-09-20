@@ -5,11 +5,11 @@
   "base_version": "1.0",
   "latest_revision": 2,
   "update": {
-    "title": "Fradev Installer + Project Identity — Update R2",
+    "title": "Fradev Installer + Project Identity + Update Button — R2",
     "published": true,
-    "notes": "R2 acumulativa: añade Fradev Installer y la identidad/atribución profesional de Fradev OS/Fradev AI. Conserva la validación R1.",
+    "notes": "R2 acumulativa: añade Fradev Installer, Project Identity y corrige el botón Actualizar Fradev OS del Control Center para instalar también actualizaciones .fup firmadas. Conserva la validación R1.",
     "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R2-Fradev-Installer-Project-Identity.fup",
     "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R2-Fradev-Installer-Project-Identity.fup.sig",
-    "sha256": "960bdc79065cb192748e23105f2a1b35f36b701bb0b7bbb534e2451ca4642504"
+    "sha256": "1aae545d6db179135b991f0326ef8eba5ca5d2ac2bfdda111aef69e98100f285"
   }
 }
