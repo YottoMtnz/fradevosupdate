@@ -7,9 +7,9 @@
   "update": {
     "title": "Fradev OS Update Pipeline Test R1",
     "published": true,
-    "notes": "Primera prueba firmada del sistema de parches. Instala únicamente un marcador de validación y eleva la revisión local a 1.",
+    "notes": "Primera prueba firmada del sistema de parches. Instala el marcador de validación y consolida una corrección bootstrap del propio actualizador.",
     "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R1-Update-Test.fup",
     "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R1-Update-Test.fup.sig",
-    "sha256": "76e33afa48d971ad06e70c7c145cb0054d1ce1d04018afc486384e275b1addfc"
+    "sha256": "2d3af8af4fa6b515d16bac78f0880b29b7052892a09e17e75dc93aa3877e9a7c"
   }
 }
