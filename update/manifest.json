@@ -3,12 +3,13 @@
   "product": "Fradev OS",
   "channel": "stable",
   "base_version": "1.0",
-  "latest_revision": 0,
+  "latest_revision": 1,
   "update": {
-    "title": "Fradev OS 1.0 Stable",
-    "published": false,
-    "notes": "Base stable release. No additional patch is published yet.",
-    "package": null,
-    "sha256": null
+    "title": "Fradev OS Update Pipeline Test R1",
+    "published": true,
+    "notes": "Primera prueba firmada del sistema de parches. Instala únicamente un marcador de validación y eleva la revisión local a 1.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R1-Update-Test.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R1-Update-Test.fup.sig",
+    "sha256": "76e33afa48d971ad06e70c7c145cb0054d1ce1d04018afc486384e275b1addfc"
   }
 }
