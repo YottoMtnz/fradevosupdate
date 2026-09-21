@@ -3,13 +3,13 @@
   "product": "Fradev OS",
   "channel": "stable",
   "base_version": "1.0",
-  "latest_revision": 3,
+  "latest_revision": 4,
   "update": {
-    "title": "Fradev AI Local Context — Update R3",
+    "title": "Fradev Local Brain — Update R4",
     "published": true,
-    "notes": "R3 compatible con Stable 2: activa Project Identity y preguntas locales deterministas; conserva Installer, botón de actualización y la política de IA paciente/recoverable para hardware modesto.",
-    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R3-Fradev-AI-Reliability.fup",
-    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R3-Fradev-AI-Reliability.fup.sig",
-    "sha256": "adf8fb40fb9952c729ff01dcded6e560a216966b9dc24505dfd2c086f1463105"
+    "notes": "R4 acumulativa: añade una capa local inteligente anterior al modelo con 48 intenciones y cientos de formulaciones para responder al instante preguntas del propio Fradev OS/equipo. Conserva Project Identity, Fradev Installer y la política paciente de Fradev AI para hardware modesto.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R4-Fradev-Local-Brain.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R4-Fradev-Local-Brain.fup.sig",
+    "sha256": "e84f5ab2bc75a3a99e157dea4e76cc436c5e180f6c82f79e2dde3f2f5f0b10db"
   }
 }
