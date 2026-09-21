@@ -3,13 +3,13 @@
   "product": "Fradev OS",
   "channel": "stable",
   "base_version": "1.0",
-  "latest_revision": 4,
+  "latest_revision": 5,
   "update": {
-    "title": "Fradev Local Brain — Update R4",
+    "title": "Browser First Run + UX Polish — Update R5",
     "published": true,
-    "notes": "R4 acumulativa: añade una capa local inteligente anterior al modelo con 48 intenciones y cientos de formulaciones para responder al instante preguntas del propio Fradev OS/equipo. Conserva Project Identity, Fradev Installer y la política paciente de Fradev AI para hardware modesto.",
-    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R4-Fradev-Local-Brain.fup",
-    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R4-Fradev-Local-Brain.fup.sig",
-    "sha256": "e84f5ab2bc75a3a99e157dea4e76cc436c5e180f6c82f79e2dde3f2f5f0b10db"
+    "notes": "R5 acumulativa: conserva R1-R4, corrige Chrome para que la página de Fradev OS sea una bienvenida de una sola vez en perfiles nuevos, migra la política antigua que forzaba cada inicio y endurece la validación de rutas del actualizador.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R5-Browser-First-Run-UX.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R5-Browser-First-Run-UX.fup.sig",
+    "sha256": "c5f5eb09ef968216b293cb61b5acbe409f9e804a24c27560427be25df8645e2d"
   }
 }
