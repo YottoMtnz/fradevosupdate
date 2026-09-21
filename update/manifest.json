@@ -5,11 +5,11 @@
   "base_version": "1.0",
   "latest_revision": 3,
   "update": {
-    "title": "Fradev AI Reliability — Update R3",
+    "title": "Fradev AI Local Context — Update R3",
     "published": true,
-    "notes": "R3 acumulativa: conserva R1/R2 y mejora la fiabilidad de Fradev AI en hardware modesto. Añade recuperación automática ante bloqueos, comprobación de salud del motor, botón Detener, límites adaptados a RAM y Project Identity determinista sin depender del modelo.",
+    "notes": "R3 compatible con Stable 2: activa Project Identity y preguntas locales deterministas; conserva Installer, botón de actualización y la política de IA paciente/recoverable para hardware modesto.",
     "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R3-Fradev-AI-Reliability.fup",
     "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R3-Fradev-AI-Reliability.fup.sig",
-    "sha256": "d2144d93543ad7e30901bb7af72271f882a8e8cf7bd2fa0ea03609a5cfeb2778"
+    "sha256": "adf8fb40fb9952c729ff01dcded6e560a216966b9dc24505dfd2c086f1463105"
   }
 }
