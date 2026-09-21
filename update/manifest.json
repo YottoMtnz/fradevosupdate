@@ -3,13 +3,13 @@
   "product": "Fradev OS",
   "channel": "stable",
   "base_version": "1.0",
-  "latest_revision": 2,
+  "latest_revision": 3,
   "update": {
-    "title": "Fradev Installer + Project Identity + Update Button — R2",
+    "title": "Fradev AI Reliability — Update R3",
     "published": true,
-    "notes": "R2 acumulativa: añade Fradev Installer, Project Identity y corrige el botón Actualizar Fradev OS del Control Center para instalar también actualizaciones .fup firmadas. Conserva la validación R1.",
-    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R2-Fradev-Installer-Project-Identity.fup",
-    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R2-Fradev-Installer-Project-Identity.fup.sig",
-    "sha256": "1aae545d6db179135b991f0326ef8eba5ca5d2ac2bfdda111aef69e98100f285"
+    "notes": "R3 acumulativa: conserva R1/R2 y mejora la fiabilidad de Fradev AI en hardware modesto. Añade recuperación automática ante bloqueos, comprobación de salud del motor, botón Detener, límites adaptados a RAM y Project Identity determinista sin depender del modelo.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R3-Fradev-AI-Reliability.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R3-Fradev-AI-Reliability.fup.sig",
+    "sha256": "d2144d93543ad7e30901bb7af72271f882a8e8cf7bd2fa0ea03609a5cfeb2778"
   }
 }
