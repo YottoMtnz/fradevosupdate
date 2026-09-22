@@ -3,13 +3,13 @@
   "product": "Fradev OS",
   "channel": "stable",
   "base_version": "1.0",
-  "latest_revision": 5,
+  "latest_revision": 6,
   "update": {
-    "title": "Browser First Run + UX Polish — Update R5",
+    "title": "Fradev Archive + Multi-Volume — Update R6",
     "published": true,
-    "notes": "R5 acumulativa: conserva R1-R4, corrige Chrome para que la página de Fradev OS sea una bienvenida de una sola vez en perfiles nuevos, migra la política antigua que forzaba cada inicio y endurece la validación de rutas del actualizador.",
-    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R5-Browser-First-Run-UX.fup",
-    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R5-Browser-First-Run-UX.fup.sig",
-    "sha256": "c5f5eb09ef968216b293cb61b5acbe409f9e804a24c27560427be25df8645e2d"
+    "notes": "R6 acumulativa: conserva R1–R5 y añade Fradev Archive, integración Dolphin/Control Center, ZIP/7z multivolumen y creación de archivos divididos.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R6-Fradev-Archive-MultiVolume.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R6-Fradev-Archive-MultiVolume.fup.sig",
+    "sha256": "cd7234633d357779dcb71d26c4c2b2dd17886ab2019e743ee89cf9e5dc91b361"
   }
 }
