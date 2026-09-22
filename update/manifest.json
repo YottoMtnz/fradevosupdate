@@ -7,9 +7,9 @@
   "update": {
     "title": "Fradev Archive + Multi-Volume — Update R6",
     "published": true,
-    "notes": "R6 acumulativa: conserva R1–R5 y añade Fradev Archive, integración Dolphin/Control Center, ZIP/7z multivolumen y creación de archivos divididos.",
+    "notes": "R6 corregida: conserva R1–R5 y añade Fradev Archive con ZIP/7z multivolumen. El icono y el menú contextual de Dolphin se registran por usuario dentro de ~/.local, sin ampliar las rutas privilegiadas permitidas por el updater.",
     "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R6-Fradev-Archive-MultiVolume.fup",
     "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R6-Fradev-Archive-MultiVolume.fup.sig",
-    "sha256": "cd7234633d357779dcb71d26c4c2b2dd17886ab2019e743ee89cf9e5dc91b361"
+    "sha256": "72d9a5d8a05d4594b59c27d8551dd664e3b93fad279dbf71ad8c9a4dcb10935f"
   }
 }
