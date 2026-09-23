@@ -3,13 +3,13 @@
   "product": "Fradev OS",
   "channel": "stable",
   "base_version": "1.0",
-  "latest_revision": 10,
+  "latest_revision": 11,
   "update": {
-    "title": "Windows Integrado automático — Update R10",
+    "title": "Windows Integrado — Fix de preparación R11",
     "published": true,
-    "notes": "R10 conserva R1–R9 y corrige Windows Integrado: detección automática de la VM, apagado normal guiado, montaje fiable de FRADEV_SETUP y flujo de configuración en un solo botón.",
-    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R10-Windows-Integrado-Auto.fup",
-    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R10-Windows-Integrado-Auto.fup.sig",
-    "sha256": "07a50d203a512c56b0904b658fcaaef3bc1a07caacdd97aef72fa0c5f5fe0570"
+    "notes": "R11 conserva R1–R10 y corrige Windows Integrado: la VM detectada ya no se pierde antes de la preparación. VM, puerto RDP y CD de preparación quedan guardados antes de modificar la máquina y el flujo muestra confirmaciones visibles.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R11-Windows-Integrado-Fix.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R11-Windows-Integrado-Fix.fup.sig",
+    "sha256": "1ee8af0014d051f166daae6e8d1f3d7dd1880f33496dea242dbab2f5d79acb37"
   }
 }
