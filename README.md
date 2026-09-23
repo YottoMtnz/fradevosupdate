@@ -31,14 +31,27 @@ La revisión pública más reciente declarada por el canal estable es **R6**.
 
 ## Capturas reales
 
-Las capturas incluidas en este repositorio fueron tomadas directamente de Fradev OS 1.0 Stable 2 funcionando en hardware real.
+Estas capturas fueron tomadas directamente de **Fradev OS 1.0 Stable 2 funcionando en hardware real**.
 
-- Developer Stack
-- fraGlass
-- Control Center
-- Devices
-- Fradev OS Software
+### Developer Stack
 
+[![Fradev OS Developer Stack](assets/fradev-developer-stack.webp)](assets/fradev-developer-stack.webp)
+
+### fraGlass
+
+[![fraGlass en Fradev OS](assets/fradev-fraglass.webp)](assets/fradev-fraglass.webp)
+
+### Control Center
+
+[![Fradev OS Control Center](assets/fradev-control-center.webp)](assets/fradev-control-center.webp)
+
+### Devices
+
+[![Fradev OS Devices](assets/fradev-devices.webp)](assets/fradev-devices.webp)
+
+### Fradev OS Software
+
+[![Fradev OS Software](assets/fradev-software.webp)](assets/fradev-software.webp)
 ## Proyecto oficial
 
 Este repositorio contiene la presencia pública oficial de Fradev OS: sitio web, recursos públicos y canal de actualizaciones. No es documentación interna del proceso de desarrollo.
