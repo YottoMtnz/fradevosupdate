@@ -3,13 +3,13 @@
   "product": "Fradev OS",
   "channel": "stable",
   "base_version": "1.0",
-  "latest_revision": 14,
+  "latest_revision": 15,
   "update": {
-    "title": "Windows Integrado — detección ampliada R14",
+    "title": "Windows Integrado — actualización estable R15",
     "published": true,
-    "notes": "R14 conserva R1–R13 y mejora Actualizar accesos Windows: corrige la prueba RDP en Windows 10 1607, sanea la salida detectada de PowerShell, detecta programas desde accesos del Escritorio y Menú Inicio (incluidas aplicaciones instaladas por usuario como Telegram) y muestra correctamente los fallos.",
-    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R14-Windows-Integrado-Deteccion-Ampliada.fup",
-    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R14-Windows-Integrado-Deteccion-Ampliada.fup.sig",
-    "sha256": "1ab3d8e7a60b3617e0404cd1fda9548de1d19cd8d517193fab80e0ae9ce6555b"
+    "notes": "R15 conserva R1–R14 y estabiliza Actualizar accesos Windows: AUTOPAUSE off, APP_SCAN_TIMEOUT=180, salto del falso test RDP solo durante refresh, espera de 5 segundos para montar \\\\tsclient\\home y detección ampliada de accesos.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R15-Windows-Integrado-Estable.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R15-Windows-Integrado-Estable.fup.sig",
+    "sha256": "02bd1ddf3dc6a021bed6bd19d22692c4d86a10478fd58b2dbd528e1d5dd05015"
   }
 }
