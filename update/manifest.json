@@ -3,13 +3,13 @@
   "product": "Fradev OS",
   "channel": "stable",
   "base_version": "1.0",
-  "latest_revision": 15,
+  "latest_revision": 16,
   "update": {
-    "title": "Windows Integrado — actualización estable R15",
+    "title": "Windows Integrado — rescate estable R16",
     "published": true,
-    "notes": "R15 conserva R1–R14 y estabiliza Actualizar accesos Windows: AUTOPAUSE off, APP_SCAN_TIMEOUT=180, salto del falso test RDP solo durante refresh, espera de 5 segundos para montar \\\\tsclient\\home y detección ampliada de accesos.",
-    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R15-Windows-Integrado-Estable.fup",
-    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R15-Windows-Integrado-Estable.fup.sig",
-    "sha256": "02bd1ddf3dc6a021bed6bd19d22692c4d86a10478fd58b2dbd528e1d5dd05015"
+    "notes": "R16 parte del lanzador estable R13 y sustituye los cambios problemáticos de R14/R15; conserva únicamente los arreglos de refresh validados en pruebas reales.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R16-Rescate-Windows-Integrado.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R16-Rescate-Windows-Integrado.fup.sig",
+    "sha256": "4e355662093aa794a9a01a22235c9aaf7e0f98890f577e64bc76f2c610087ae4"
   }
 }
