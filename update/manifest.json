@@ -3,13 +3,13 @@
   "product": "Fradev OS",
   "channel": "stable",
   "base_version": "1.0",
-  "latest_revision": 7,
+  "latest_revision": 8,
   "update": {
-    "title": "Fradev Office Experience — Update R7",
+    "title": "Office en español + Puente VM — Update R8",
     "published": true,
-    "notes": "R7 conserva R1–R6 y añade Fradev Office. Completa LibreOffice (Writer/Calc/Impress/Draw/Math/Base) e integra ONLYOFFICE Desktop Editors desde su repositorio oficial, con fuentes compatibles y asociaciones DOCX/XLSX/PPTX. La descarga de suites requiere autorización explícita en el primer inicio de Fradev Office.",
-    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R7-Fradev-Office-Experience.fup",
-    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R7-Fradev-Office-Experience.fup.sig",
-    "sha256": "486a48fd2f3e916c178f1609a291a1930922b2d39dfcaf6232b06329a49cb540"
+    "notes": "R8 conserva R1–R7. Añade español completo a LibreOffice y corrige Windows virtualizado de Fradev Puente. Puente puede reparar libvirt y crear una VM de Windows directamente desde una ISO aportada por el usuario.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R8-OfficeES-PuenteVM.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R8-OfficeES-PuenteVM.fup.sig",
+    "sha256": "62f83ef9b2367de1a1e9dfaa5a77892403109125f391bd2fbe5dd7fd9e204dd8"
   }
 }
