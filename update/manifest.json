@@ -3,13 +3,13 @@
   "product": "Fradev OS",
   "channel": "stable",
   "base_version": "1.0",
-  "latest_revision": 6,
+  "latest_revision": 7,
   "update": {
-    "title": "Fradev Archive + Multi-Volume — Update R6",
+    "title": "Fradev Office Experience — Update R7",
     "published": true,
-    "notes": "R6 v3 corregida: conserva R1–R5, añade Fradev Archive con ZIP/7z multivolumen y elimina bytecode Python del paquete para evitar falsos errores de integridad. El icono y el menú contextual se registran por usuario.",
-    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R6-Fradev-Archive-MultiVolume.fup",
-    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R6-Fradev-Archive-MultiVolume.fup.sig",
-    "sha256": "08ea13cb1b74c2b0b17d1c594cbfec13f1783ce895243aced4658cc6bb684367"
+    "notes": "R7 conserva R1–R6 y añade Fradev Office. Completa LibreOffice (Writer/Calc/Impress/Draw/Math/Base) e integra ONLYOFFICE Desktop Editors desde su repositorio oficial, con fuentes compatibles y asociaciones DOCX/XLSX/PPTX. La descarga de suites requiere autorización explícita en el primer inicio de Fradev Office.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R7-Fradev-Office-Experience.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R7-Fradev-Office-Experience.fup.sig",
+    "sha256": "486a48fd2f3e916c178f1609a291a1930922b2d39dfcaf6232b06329a49cb540"
   }
 }
