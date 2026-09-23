@@ -1,10 +1,11 @@
-# Fradev OS 1.0 Stable
+# Fradev OS 1.0 Stable 2
 
 > **Un sistema para crear sin límites.**
 >
 > Desarrolla. Crea. Juega. Conecta. Todo desde un escritorio pensado para hacer más y pelear menos con el sistema.
 
-**Estado:** 1.0 Stable · **Descarga pública:** [Disponible](https://drive.google.com/uc?export=download&id=1YKA4LaLF0XLBWRFEpcAxmWVcz4KwOHq0)
+**Estado:** 1.0 Stable 2 · **Descarga pública:** [Disponible](https://drive.google.com/uc?export=download&id=1YKA4LaLF0XLBWRFEpcAxmWVcz4KwOHq0)
+**Sitio oficial:** https://yottomtnz.github.io/fradevosupdate/
 
 ---
 
@@ -76,7 +77,7 @@ Estos comandos forman parte de la instalación de Fradev OS 1.0 y son útiles pa
 
 ## Capturas reales
 
-Estas son capturas tomadas directamente de **Fradev OS 1.0 Stable** funcionando en hardware real. La presentación pública se centra en el propio sistema: entorno de desarrollo, fraGlass, Control Center, Devices y Software.
+Estas son capturas tomadas directamente de **Fradev OS 1.0 Stable 2** funcionando en hardware real. La presentación pública se centra en el propio sistema: entorno de desarrollo, fraGlass, Control Center, Devices y Software.
 
 ### Developer Stack
 
@@ -100,11 +101,11 @@ Estas son capturas tomadas directamente de **Fradev OS 1.0 Stable** funcionando 
 
 ---
 
-## Fradev OS 1.0 Stable
+## Fradev OS 1.0 Stable 2
 
 La versión **1.0 Stable** marca la base pública de Fradev OS.
 
-**[Descargar Fradev OS 1.0 Stable](https://drive.google.com/uc?export=download&id=1YKA4LaLF0XLBWRFEpcAxmWVcz4KwOHq0)**
+**[Descargar Fradev OS 1.0 Stable 2](https://drive.google.com/uc?export=download&id=1YKA4LaLF0XLBWRFEpcAxmWVcz4KwOHq0)**
 
 ---
 

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yottomtnz.github.io/fradevosupdate/sitemap.xml
