@@ -3,13 +3,13 @@
   "product": "Fradev OS",
   "channel": "stable",
   "base_version": "1.0",
-  "latest_revision": 12,
+  "latest_revision": 13,
   "update": {
-    "title": "Fradev Windows Integrado estable — Update R12",
+    "title": "Botón Actualizar accesos Windows — Update R13",
     "published": true,
-    "notes": "R12 conserva R1–R11 y consolida Windows Integrado tras validación real: preparador compatible con Windows 10 Pro 1607, Remote Desktop Users automático, FreeRDP 3.31.1+ desde Debian 13 Backports, WinApps fijado a xfreerdp y prueba de RemoteApp.",
-    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R12-Windows-Integrado-Estable.fup",
-    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R12-Windows-Integrado-Estable.fup.sig",
-    "sha256": "b27f064544b8556b0125a91f290848999e83227b91f96b98d862c7c29c489151"
+    "notes": "R13 conserva R1–R12 y añade un botón visible en Fradev OS Puente para detectar aplicaciones nuevas de Windows y regenerar/sincronizar sus accesos.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R13-Boton-Actualizar-Accesos-Windows.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R13-Boton-Actualizar-Accesos-Windows.fup.sig",
+    "sha256": "10205cd40de4a8240d45c474bd393ef59a35cc3b60d14de32ff97bb8eb56e6f5"
   }
 }
