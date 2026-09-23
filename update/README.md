@@ -9,7 +9,5 @@ Este directorio es el endpoint público oficial del canal de actualizaciones de 
 - **Creador:** Fraudy Martínez Madruga
 
 `manifest.json` indica al sistema cuál es la revisión estable publicada y qué paquete firmado debe utilizar. Los archivos de `packages/` son artefactos públicos de actualización y sus firmas.
-
-La documentación interna de desarrollo, handoffs, notas de continuidad y material de construcción no forman parte de este repositorio público.
-
+`r`n
 Copyright © 2026 Fraudy Martínez Madruga. Todos los derechos reservados sobre los materiales originales de Fradev OS. Los componentes de terceros conservan sus propias licencias y derechos.
