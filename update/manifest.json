@@ -3,13 +3,13 @@
   "product": "Fradev OS",
   "channel": "stable",
   "base_version": "1.0",
-  "latest_revision": 8,
+  "latest_revision": 9,
   "update": {
-    "title": "Office en español + Puente VM — Update R8",
+    "title": "Windows Integrado — Update R9",
     "published": true,
-    "notes": "R8 conserva R1–R7. Añade español completo a LibreOffice y corrige Windows virtualizado de Fradev Puente. Puente puede reparar libvirt y crear una VM de Windows directamente desde una ISO aportada por el usuario.",
-    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R8-OfficeES-PuenteVM.fup",
-    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R8-OfficeES-PuenteVM.fup.sig",
-    "sha256": "62f83ef9b2367de1a1e9dfaa5a77892403109125f391bd2fbe5dd7fd9e204dd8"
+    "notes": "R9 conserva R1–R8 y añade Fradev Windows Integrado: Windows puede quedar en segundo plano y sus aplicaciones aparecer como ventanas de Fradev OS mediante FreeRDP/RemoteApp y WinApps oficial. Puente puede usarlo como fallback cuando Wine/Proton no pueden abrir una aplicación.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R9-Windows-Integrado.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R9-Windows-Integrado.fup.sig",
+    "sha256": "ffcf26296c888a4a5919e8f30ce0cdefa22975e98753a1f2aa4b3c18d045f31d"
   }
 }
