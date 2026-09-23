@@ -3,13 +3,13 @@
   "product": "Fradev OS",
   "channel": "stable",
   "base_version": "1.0",
-  "latest_revision": 13,
+  "latest_revision": 14,
   "update": {
-    "title": "Botón Actualizar accesos Windows — Update R13",
+    "title": "Windows Integrado — detección ampliada R14",
     "published": true,
-    "notes": "R13 conserva R1–R12 y añade un botón visible en Fradev OS Puente para detectar aplicaciones nuevas de Windows y regenerar/sincronizar sus accesos.",
-    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R13-Boton-Actualizar-Accesos-Windows.fup",
-    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R13-Boton-Actualizar-Accesos-Windows.fup.sig",
-    "sha256": "10205cd40de4a8240d45c474bd393ef59a35cc3b60d14de32ff97bb8eb56e6f5"
+    "notes": "R14 conserva R1–R13 y mejora Actualizar accesos Windows: corrige la prueba RDP en Windows 10 1607, sanea la salida detectada de PowerShell, detecta programas desde accesos del Escritorio y Menú Inicio (incluidas aplicaciones instaladas por usuario como Telegram) y muestra correctamente los fallos.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R14-Windows-Integrado-Deteccion-Ampliada.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R14-Windows-Integrado-Deteccion-Ampliada.fup.sig",
+    "sha256": "1ab3d8e7a60b3617e0404cd1fda9548de1d19cd8d517193fab80e0ae9ce6555b"
   }
 }
