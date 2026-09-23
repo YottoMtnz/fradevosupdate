@@ -3,13 +3,13 @@
   "product": "Fradev OS",
   "channel": "stable",
   "base_version": "1.0",
-  "latest_revision": 16,
+  "latest_revision": 17,
   "update": {
-    "title": "Windows Integrado — rescate estable R16",
+    "title": "Windows Integrado — revisión validada R17",
     "published": true,
-    "notes": "R16 parte del lanzador estable R13 y sustituye los cambios problemáticos de R14/R15; conserva únicamente los arreglos de refresh validados en pruebas reales.",
-    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R16-Rescate-Windows-Integrado.fup",
-    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R16-Rescate-Windows-Integrado.fup.sig",
-    "sha256": "4e355662093aa794a9a01a22235c9aaf7e0f98890f577e64bc76f2c610087ae4"
+    "notes": "R17 supersede el flujo problemático de R14-R16 y conserva únicamente los arreglos validados: FreeRDP 3.31.1+, AUTOPAUSE off, APP_SCAN_TIMEOUT 180, salto del falso probe RDP solo al actualizar, espera de 5 segundos para \\\\tsclient\\home, detección .lnk y validación idempotente corregida.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R17-Windows-Integrado-Validado.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R17-Windows-Integrado-Validado.fup.sig",
+    "sha256": "298e299b7003c7d63a0be2a1c064d7e02e07dc64c3951435434d13340b14ed2b"
   }
 }
