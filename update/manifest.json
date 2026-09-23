@@ -3,13 +3,13 @@
   "product": "Fradev OS",
   "channel": "stable",
   "base_version": "1.0",
-  "latest_revision": 11,
+  "latest_revision": 12,
   "update": {
-    "title": "Windows Integrado — Fix de preparación R11",
+    "title": "Fradev Windows Integrado estable — Update R12",
     "published": true,
-    "notes": "R11 conserva R1–R10 y corrige Windows Integrado: la VM detectada ya no se pierde antes de la preparación. VM, puerto RDP y CD de preparación quedan guardados antes de modificar la máquina y el flujo muestra confirmaciones visibles.",
-    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R11-Windows-Integrado-Fix.fup",
-    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R11-Windows-Integrado-Fix.fup.sig",
-    "sha256": "1ee8af0014d051f166daae6e8d1f3d7dd1880f33496dea242dbab2f5d79acb37"
+    "notes": "R12 conserva R1–R11 y consolida Windows Integrado tras validación real: preparador compatible con Windows 10 Pro 1607, Remote Desktop Users automático, FreeRDP 3.31.1+ desde Debian 13 Backports, WinApps fijado a xfreerdp y prueba de RemoteApp.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R12-Windows-Integrado-Estable.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R12-Windows-Integrado-Estable.fup.sig",
+    "sha256": "b27f064544b8556b0125a91f290848999e83227b91f96b98d862c7c29c489151"
   }
 }
