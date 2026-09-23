@@ -1,5 +1,15 @@
-# Fradev OS stable update feed
+# Fradev OS — canal estable de actualizaciones
 
-This directory is the canonical update discovery endpoint for Fradev OS 1.0 Stable.
+Este directorio es el endpoint público oficial del canal de actualizaciones de **Fradev OS 1.0 Stable 2**.
 
-`manifest.json` currently declares revision `0`, meaning the base 1.0 Stable release has no additional published patch. Automatic `.fup` installation remains disabled until the signed package protocol is finalized and validated.
+- **Producto:** Fradev OS
+- **Canal:** stable
+- **Base:** 1.0 Stable 2
+- **Revisión pública actual:** R6
+- **Creador:** Fraudy Martínez Madruga
+
+`manifest.json` indica al sistema cuál es la revisión estable publicada y qué paquete firmado debe utilizar. Los archivos de `packages/` son artefactos públicos de actualización y sus firmas.
+
+La documentación interna de desarrollo, handoffs, notas de continuidad y material de construcción no forman parte de este repositorio público.
+
+Copyright © 2026 Fraudy Martínez Madruga. Todos los derechos reservados sobre los materiales originales de Fradev OS. Los componentes de terceros conservan sus propias licencias y derechos.

@@ -1,3 +1,4 @@
+# Fradev OS — © 2026 Fraudy Martínez Madruga
 User-agent: *
 Allow: /
 
