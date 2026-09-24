@@ -7,9 +7,9 @@
   "update": {
     "title": "Solid Global — opacidad real validada",
     "published": true,
-    "notes": "R18 consolida únicamente el arreglo visual probado en hardware real: Solid es completamente opaco en apps Fradev OS, Konsole, KWin, Plasma y superficies afectadas por la composición. Windows Integrado conserva byte por byte el payload validado de R17.",
-    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R18-Solid-Global-Validado.fup",
-    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R18-Solid-Global-Validado.fup.sig",
-    "sha256": "71f411dae8b329030f8a940a62aa6e91bfc51314cec3e499f1162458aec78e49"
+    "notes": "R18 consolida únicamente el arreglo visual validado de Solid. V2 corrige el empaquetado del tema Plasma para que sea aceptado por el actualizador de R17; Windows Integrado conserva el payload validado de R17.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R18-Solid-Global-Validado-V2.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R18-Solid-Global-Validado-V2.fup.sig",
+    "sha256": "7e5a7a53450d0341b379c127500c2b5cae2330b52179ad7603c9bd1f08af8bf2"
   }
 }
