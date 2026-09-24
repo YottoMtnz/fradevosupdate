@@ -3,13 +3,13 @@
   "product": "Fradev OS",
   "channel": "stable",
   "base_version": "1.0",
-  "latest_revision": 17,
+  "latest_revision": 18,
   "update": {
-    "title": "Windows Integrado — revisión validada R17",
+    "title": "Solid Global — opacidad real validada",
     "published": true,
-    "notes": "R17 supersede el flujo problemático de R14-R16 y conserva únicamente los arreglos validados: FreeRDP 3.31.1+, AUTOPAUSE off, APP_SCAN_TIMEOUT 180, salto del falso probe RDP solo al actualizar, espera de 5 segundos para \\\\tsclient\\home, detección .lnk y validación idempotente corregida.",
-    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R17-Windows-Integrado-Validado.fup",
-    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R17-Windows-Integrado-Validado.fup.sig",
-    "sha256": "298e299b7003c7d63a0be2a1c064d7e02e07dc64c3951435434d13340b14ed2b"
+    "notes": "R18 consolida únicamente el arreglo visual probado en hardware real: Solid es completamente opaco en apps Fradev OS, Konsole, KWin, Plasma y superficies afectadas por la composición. Windows Integrado conserva byte por byte el payload validado de R17.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R18-Solid-Global-Validado.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R18-Solid-Global-Validado.fup.sig",
+    "sha256": "71f411dae8b329030f8a940a62aa6e91bfc51314cec3e499f1162458aec78e49"
   }
 }
