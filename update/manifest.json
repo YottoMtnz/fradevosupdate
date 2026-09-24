@@ -3,13 +3,13 @@
   "product": "Fradev OS",
   "channel": "stable",
   "base_version": "1.0",
-  "latest_revision": 18,
+  "latest_revision": 19,
   "update": {
-    "title": "Solid Global — opacidad real validada",
+    "title": "Windows Integrado — instalación limpia validada",
     "published": true,
-    "notes": "R18 consolida únicamente el arreglo visual validado de Solid. V2 corrige el empaquetado del tema Plasma para que sea aceptado por el actualizador de R17; Windows Integrado conserva el payload validado de R17.",
-    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R18-Solid-Global-Validado-V2.fup",
-    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R18-Solid-Global-Validado-V2.fup.sig",
-    "sha256": "7e5a7a53450d0341b379c127500c2b5cae2330b52179ad7603c9bd1f08af8bf2"
+    "notes": "R19 es acumulativa: conserva R18 Solid Global y corrige Windows Integrado desde una instalación limpia. El botón Configurar ya no queda mudo sin configuración previa; FRADEV_SETUP contiene el preparador compatible con Windows 10 1607 y FradevOpen.exe; Actualizar accesos aplica de forma persistente las correcciones de WinApps en todas sus rutas RDP.",
+    "package": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R19-Windows-Integrado-Instalacion-Limpia.fup",
+    "signature": "https://raw.githubusercontent.com/YottoMtnz/fradevosupdate/main/update/packages/FradevOS-1.0-R19-Windows-Integrado-Instalacion-Limpia.fup.sig",
+    "sha256": "ea4c124d4535f9c50635b95bd890c21ceac74ae63c6c9de409f90062eba286f5"
   }
 }
