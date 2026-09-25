@@ -23,7 +23,7 @@ Fradev OS es un sistema operativo Linux de escritorio basado en Debian 13, pensa
 
 Fradev OS 1.0 Stable 2 es la base pública actual. El sistema puede recibir revisiones firmadas mediante su canal estable de actualizaciones.
 
-La revisión pública más reciente declarada por el canal estable es **R17**.
+La revisión pública más reciente declarada por el canal estable es **R19**.
 
 ## Descarga
 
