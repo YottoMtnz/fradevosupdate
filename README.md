@@ -5,7 +5,7 @@
 **Creador y autor del proyecto:** Fraudy Martínez Madruga  
 **Sitio oficial:** https://yottomtnz.github.io/fradevosupdate/  
 **Descarga oficial:** https://drive.google.com/uc?export=download&id=1YKA4LaLF0XLBWRFEpcAxmWVcz4KwOHq0  
-**Canal estable actual:** Fradev OS 1.0 Stable 2 · actualización pública más reciente **R17**
+**Canal estable actual:** Fradev OS 1.0 Stable 2 · actualización pública más reciente **R19**
 
 Fradev OS es un sistema operativo Linux de escritorio basado en Debian 13, pensado para desarrollo, productividad, compatibilidad, juegos y asistencia local con Fradev AI.
 
