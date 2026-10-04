@@ -1,58 +1,129 @@
-# Fradev OS 1.0 Stable 2
+<p align="center">
+  <img src="assets/fradev-fraglass.webp" alt="Fradev OS 1.0 Stable 2 — escritorio con fraGlass" width="100%">
+</p>
 
-> **Un sistema para crear sin límites.**
+<h1 align="center">Fradev OS 1.0 Stable 2</h1>
+<p align="center"><em>Un sistema para crear sin límites.</em></p>
 
-**Creador y autor del proyecto:** Fraudy Martínez Madruga  
-**Sitio oficial:** https://yottomtnz.github.io/fradevosupdate/  
-**Descarga oficial:** https://drive.google.com/uc?export=download&id=1YKA4LaLF0XLBWRFEpcAxmWVcz4KwOHq0  
-**Canal estable actual:** Fradev OS 1.0 Stable 2 · actualización pública más reciente **R19**
+<p align="center">
+  <img src="https://img.shields.io/badge/Debian-13-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Basado en Debian 13">
+  <img src="https://img.shields.io/badge/Stable%20channel-R19-0ea5e9?style=flat-square" alt="Canal estable R19">
+  <a href="https://yottomtnz.github.io/fradevosupdate/"><img src="https://img.shields.io/badge/Website-Oficial-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Sitio oficial"></a>
+  <a href="https://drive.google.com/uc?export=download&id=1YKA4LaLF0XLBWRFEpcAxmWVcz4KwOHq0"><img src="https://img.shields.io/badge/Download-ISO-7c3aed?style=flat-square&logo=googledrive&logoColor=white" alt="Descargar"></a>
+</p>
 
-Fradev OS es un sistema operativo Linux de escritorio basado en Debian 13, pensado para desarrollo, productividad, compatibilidad, juegos y asistencia local con Fradev AI.
+---
 
-## Qué ofrece
+## Sobre Fradev OS
 
-- **Entorno de desarrollo listo para trabajar** con herramientas para Python, C/C++, Rust, Go, Java, Web, contenedores, bases de datos y virtualización.
-- **fraGlass**, la identidad visual de Fradev OS, con una experiencia moderna, translúcida y configurable.
-- **Compatibilidad ampliada** para ejecutar una variedad de aplicaciones y flujos de trabajo.
-- **Steam + Game Lab** para juegos y experimentación.
-- **Devices** para impresoras, escáneres y otros dispositivos del día a día.
-- **Control Center** como punto central del sistema.
-- **Fradev AI**, asistente local opcional para programación, depuración y consultas técnicas. Los modelos se descargan aparte según el hardware del usuario.
+**Fradev OS** es un sistema operativo Linux de escritorio basado en **Debian 13**, creado por **Fraudy Martínez Madruga** y pensado para desarrollo, productividad, compatibilidad, juegos y asistencia local con **Fradev AI**.
 
-## Stable 2
+---
 
-Fradev OS 1.0 Stable 2 es la base pública actual. El sistema puede recibir revisiones firmadas mediante su canal estable de actualizaciones.
+## ✨ Características
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ Entorno de desarrollo
+Listo para trabajar desde el primer arranque: Python, C/C++, Rust, Go, Java, Web, contenedores, bases de datos y virtualización.
+
+</td>
+<td width="50%" valign="top">
+
+### 🪟 fraGlass
+La identidad visual de Fradev OS: una experiencia moderna, translúcida y totalmente configurable.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Compatibilidad ampliada
+Ejecuta una amplia variedad de aplicaciones y flujos de trabajo sin fricción.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Steam + Game Lab
+Juegos y experimentación, integrados en el sistema.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖨️ Devices
+Gestión sencilla de impresoras, escáneres y dispositivos del día a día.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎛️ Control Center
+El punto central desde el que se gobierna todo el sistema.
+
+</td>
+</tr>
+</table>
+
+> ### 🤖 Fradev AI
+> Asistente local opcional para programación, depuración y consultas técnicas. Los modelos se descargan aparte, según el hardware de cada usuario.
+
+---
+
+## 🔄 Canal estable
+
+**Fradev OS 1.0 Stable 2** es la base pública actual. El sistema puede recibir revisiones firmadas a través de su canal estable de actualizaciones.
 
 La revisión pública más reciente declarada por el canal estable es **R19**.
 
-## Descarga
+---
 
-**[Descargar Fradev OS 1.0 Stable 2](https://drive.google.com/uc?export=download&id=1YKA4LaLF0XLBWRFEpcAxmWVcz4KwOHq0)**
+## 📸 Capturas reales
 
-## Capturas reales
+Capturas tomadas directamente de **Fradev OS 1.0 Stable 2 funcionando en hardware real**.
 
-Estas capturas fueron tomadas directamente de **Fradev OS 1.0 Stable 2 funcionando en hardware real**.
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<strong>Developer Stack</strong><br>
+<a href="assets/fradev-developer-stack.webp"><img src="assets/fradev-developer-stack.webp" alt="Fradev OS Developer Stack" width="100%"></a>
+</td>
+<td width="50%" valign="top" align="center">
+<strong>fraGlass</strong><br>
+<a href="assets/fradev-fraglass.webp"><img src="assets/fradev-fraglass.webp" alt="fraGlass en Fradev OS" width="100%"></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<strong>Control Center</strong><br>
+<a href="assets/fradev-control-center.webp"><img src="assets/fradev-control-center.webp" alt="Fradev OS Control Center" width="100%"></a>
+</td>
+<td width="50%" valign="top" align="center">
+<strong>Devices</strong><br>
+<a href="assets/fradev-devices.webp"><img src="assets/fradev-devices.webp" alt="Fradev OS Devices" width="100%"></a>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" align="center">
+<strong>Fradev OS Software</strong><br>
+<a href="assets/fradev-software.webp"><img src="assets/fradev-software.webp" alt="Fradev OS Software" width="60%"></a>
+</td>
+</tr>
+</table>
 
-### Developer Stack
+---
 
-[![Fradev OS Developer Stack](assets/fradev-developer-stack.webp)](assets/fradev-developer-stack.webp)
+## ⬇️ Descarga
 
-### fraGlass
+<p align="center">
+  <a href="https://drive.google.com/uc?export=download&id=1YKA4LaLF0XLBWRFEpcAxmWVcz4KwOHq0"><img src="https://img.shields.io/badge/Descargar-Fradev%20OS%201.0%20Stable%202-7c3aed?style=for-the-badge&logo=googledrive&logoColor=white" alt="Descargar Fradev OS"></a>
+</p>
 
-[![fraGlass en Fradev OS](assets/fradev-fraglass.webp)](assets/fradev-fraglass.webp)
+---
 
-### Control Center
-
-[![Fradev OS Control Center](assets/fradev-control-center.webp)](assets/fradev-control-center.webp)
-
-### Devices
-
-[![Fradev OS Devices](assets/fradev-devices.webp)](assets/fradev-devices.webp)
-
-### Fradev OS Software
-
-[![Fradev OS Software](assets/fradev-software.webp)](assets/fradev-software.webp)
-## Proyecto oficial
+## ℹ️ Proyecto oficial
 
 Este repositorio contiene la presencia pública oficial de Fradev OS: sitio web, recursos públicos y canal de actualizaciones. No es documentación interna del proceso de desarrollo.
 
@@ -68,8 +139,10 @@ Los componentes de terceros incluidos o utilizados por Fradev OS conservan sus r
 
 Consulta [COPYRIGHT.md](COPYRIGHT.md) y [NOTICE](NOTICE) para más información.
 
-## Enlaces
+---
 
-- **Web oficial:** https://yottomtnz.github.io/fradevosupdate/
-- **Repositorio oficial:** https://github.com/YottoMtnz/fradevosupdate
-- **Releases:** https://github.com/YottoMtnz/fradevosupdate/releases
+## 🔗 Enlaces
+
+- 🌐 **Web oficial:** https://yottomtnz.github.io/fradevosupdate/
+- 💻 **Repositorio oficial:** https://github.com/YottoMtnz/fradevosupdate
+- 📦 **Releases:** https://github.com/YottoMtnz/fradevosupdate/releases
